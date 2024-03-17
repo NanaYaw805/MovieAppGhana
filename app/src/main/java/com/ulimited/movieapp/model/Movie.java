@@ -1,4 +1,4 @@
-package com.ulimited.movieapp.Model; ;
+package com.ulimited.movieapp.model; ;
 
 import android.widget.ImageView;
 

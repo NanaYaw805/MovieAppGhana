@@ -1,6 +1,6 @@
 package com.ulimited.movieapp.serviceapi;
 
-import com.ulimited.movieapp.Model.Result;
+import com.ulimited.movieapp.model.Result;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
